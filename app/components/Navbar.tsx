@@ -13,14 +13,13 @@ const Navbar = () => {
             width={24} 
             height={24}/>
 
-            <p>Evently</p>
-
-             <ul>
+             <p>Evently</p>
+        </Link>
+              <ul>
                     <Link href="/">Home</Link>
                     <Link href="/">Events</Link>
                     <Link href="/">Create Event</Link>
-                </ul>
-        </Link>
+              </ul>
       </nav>
     </header>
   )
